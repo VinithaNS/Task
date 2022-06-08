@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.card-design{
+    background: linear-gradient(to right top, #8380ae, #8e82b9, #9c83c2, #ac84ca, #bd83d0);
+}
+
+body{
+  background-color: rgb(47 41 41) !important;
+}
